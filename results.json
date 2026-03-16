@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-16T10:00:00-03:00",
+    "lastUpdated": "2026-03-16T17:00:00-03:00",
     "nextUpdate": "2026-03-16T17:00:00-03:00",
     "mes": "Marco 2026"
   },
@@ -8,42 +8,37 @@
     {
       "turma": "ACAD-AI-019-MAR",
       "dataEvento": "18/03/2026",
-      "totalAlunos": 75,
-      "totalDeals": 73,
+      "totalAlunos": 71,
+      "totalDeals": 78,
       "alunosSemDeal": [
-        {
-          "nome": "Abner Lima Neto",
-          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/27280178286"
-        },
-        {
-          "nome": "Christopher Baraldi",
-          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/36518384565"
-        },
-        {
-          "nome": "Rodrigo Oliveira Vitor",
-          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/37463552423"
-        }
+        { "nome": "Larissa Hanke Batista", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/37463552423" },
+        { "nome": "Victor Benazzi", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/41922053672" },
+        { "nome": "Vinícius Barozzi", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47470080064" },
+        { "nome": "Diego Assis Assis", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49126493520" },
+        { "nome": "Giovano Augusto Malamão", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49956964202" }
       ],
       "dealsSemAluno": [
-        {
-          "nome": "Alex Goncalves - Club Happy - ACAD-AI-019-MAR - G4 360",
-          "etapa": "76082956",
-          "link": "https://app.hubspot.com/contacts/7186301/deal/58002627178"
-        }
+        { "nome": "Isadora Golfet - Isadora Golfet Clínica de dermatologia", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58002616129" },
+        { "nome": "Patrick Dal Ponte - Optidata", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57994549558" },
+        { "nome": "Alex Gonçalves - Club Happy", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58002627178" },
+        { "nome": "Waldir Ratts - Imóveis de Primeira", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57987560449" },
+        { "nome": "Matheus Welter - Merco service", "etapa": "76082956", "link": "https://app.hubspot.com/contacts/7186301/deal/58006260052" },
+        { "nome": "Rodrigo Oliveira Vitor - Fito Agência", "etapa": "76082956", "link": "https://app.hubspot.com/contacts/7186301/deal/58051013751" }
       ]
     },
     {
       "turma": "ACAD-LID-005-MAR",
       "dataEvento": "19/03/2026",
-      "totalAlunos": 58,
-      "totalDeals": 57,
+      "totalAlunos": 57,
+      "totalDeals": 56,
       "alunosSemDeal": [
-        {
-          "nome": "Marcos Paulo Dias Costa",
-          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/46771513903"
-        }
+        { "nome": "Bruno Nogueira", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/45940195702" },
+        { "nome": "Marcos Paulo Dias Costa", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/46771513903" }
       ],
-      "dealsSemAluno": []
+      "dealsSemAluno": [
+        { "nome": "Anselmo Bruno Nogueira Pinto - VITTA RESIDENCIAL", "etapa": "76082956", "link": "https://app.hubspot.com/contacts/7186301/deal/58015685282" },
+        { "nome": "André Cândido da Silva - Click Massa", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58015745691" }
+      ]
     }
   ]
 }
