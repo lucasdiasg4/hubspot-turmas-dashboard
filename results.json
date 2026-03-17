@@ -1,44 +1,116 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-16T17:00:00-03:00",
-    "nextUpdate": "2026-03-16T17:00:00-03:00",
+    "lastUpdated": "2026-03-17T10:00:00-03:00",
+    "nextUpdate": "2026-03-17T17:00:00-03:00",
     "mes": "Marco 2026"
   },
   "turmas": [
     {
       "turma": "ACAD-AI-019-MAR",
       "dataEvento": "18/03/2026",
-      "totalAlunos": 71,
-      "totalDeals": 78,
-      "alunosSemDeal": [
-        { "nome": "Larissa Hanke Batista", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/37463552423" },
-        { "nome": "Victor Benazzi", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/41922053672" },
-        { "nome": "Vinícius Barozzi", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47470080064" },
-        { "nome": "Diego Assis Assis", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49126493520" },
-        { "nome": "Giovano Augusto Malamão", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49956964202" }
-      ],
+      "totalAlunos": 72,
+      "totalDeals": 77,
+      "alunosSemDeal": [],
       "dealsSemAluno": [
-        { "nome": "Isadora Golfet - Isadora Golfet Clínica de dermatologia", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58002616129" },
-        { "nome": "Patrick Dal Ponte - Optidata", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57994549558" },
-        { "nome": "Alex Gonçalves - Club Happy", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58002627178" },
-        { "nome": "Waldir Ratts - Imóveis de Primeira", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57987560449" },
-        { "nome": "Matheus Welter - Merco service", "etapa": "76082956", "link": "https://app.hubspot.com/contacts/7186301/deal/58006260052" },
-        { "nome": "Rodrigo Oliveira Vitor - Fito Agência", "etapa": "76082956", "link": "https://app.hubspot.com/contacts/7186301/deal/58051013751" }
+        {
+          "nome": "Isadora Golfet - Isadora Golfet Clínica de dermatologia -ACAD-AI-019-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58002616129"
+        },
+        {
+          "nome": "Patrick Dal Ponte - Optidata -ACAD-AI-019-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/57994549558"
+        },
+        {
+          "nome": "Alex Gonçalves - Club Happy -ACAD-AI-019-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58002627178"
+        },
+        {
+          "nome": "Waldir Ratts - Imóveis de Primeira -ACAD-AI-019-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/57987560449"
+        },
+        {
+          "nome": "Matheus Welter - Merco service -ACAD-AI-019-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58006260052"
+        },
+        {
+          "nome": "Rodrigo Oliveira  Vitor - Fito Agência -ACAD-AI-019-MAR - G4 360",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58051013751"
+        }
       ]
     },
     {
       "turma": "ACAD-LID-005-MAR",
       "dataEvento": "19/03/2026",
       "totalAlunos": 57,
-      "totalDeals": 56,
+      "totalDeals": 57,
       "alunosSemDeal": [
-        { "nome": "Bruno Nogueira", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/45940195702" },
-        { "nome": "Marcos Paulo Dias Costa", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/46771513903" }
+        {
+          "nome": "Marcos Paulo Dias Costa",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/46771513903"
+        }
       ],
       "dealsSemAluno": [
-        { "nome": "Anselmo Bruno Nogueira Pinto - VITTA RESIDENCIAL", "etapa": "76082956", "link": "https://app.hubspot.com/contacts/7186301/deal/58015685282" },
-        { "nome": "André Cândido da Silva - Click Massa", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58015745691" }
+        {
+          "nome": "André Candido da Silva - Click Massa -ACAD-LID-005-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58015745691"
+        }
       ]
+    },
+    {
+      "turma": "SPR-PE-017-MAR",
+      "dataEvento": "20/03/2026",
+      "totalAlunos": 41,
+      "totalDeals": 37,
+      "alunosSemDeal": [
+        {
+          "nome": "Elias Gomes de Almeida",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/36162463522"
+        },
+        {
+          "nome": "Deborah Ribeiro",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47561434005"
+        },
+        {
+          "nome": "César Hiroshi Yoshida",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47561588645"
+        },
+        {
+          "nome": "Filipe Oliveira Leite",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/48966804786"
+        }
+      ],
+      "dealsSemAluno": []
+    },
+    {
+      "turma": "IM-TRA-098-MAR",
+      "dataEvento": "20/03/2026",
+      "totalAlunos": 153,
+      "totalDeals": 149,
+      "alunosSemDeal": [
+        {
+          "nome": "CLARISSA CIMORELLI LIMA",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/43572380316"
+        },
+        {
+          "nome": "Rafaella Benevides",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/43615885450"
+        },
+        {
+          "nome": "AMANDA APARECIDACOQPA DE COPRE ��        b��: "https://app.hubspot.com/contacts/7186301/record/2-5260914/44939450700"
+        },
+        {
+          "nome": "Alessandro Candido",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49835126570"
+        }
+      ],
+      "dealsSemAluno": []
     }
   ]
 }
