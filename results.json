@@ -1,44 +1,58 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-17T10:00:00-03:00",
-    "nextUpdate": "2026-03-17T17:00:00-03:00",
+    "lastUpdated": "2026-03-17T17:59:00-03:00",
+    "nextUpdate": "2026-03-18T10:00:00-03:00",
     "mes": "Marco 2026"
   },
   "turmas": [
     {
       "turma": "ACAD-AI-019-MAR",
       "dataEvento": "18/03/2026",
-      "totalAlunos": 72,
-      "totalDeals": 77,
-      "alunosSemDeal": [],
+      "totalAlunos": 76,
+      "totalDeals": 81,
+      "alunosSemDeal": [
+        {
+          "nome": "Larissa Hanke Batista",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/37463552423"
+        },
+        {
+          "nome": "Weuller Azevedo Teste",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/50034215206"
+        }
+      ],
       "dealsSemAluno": [
         {
-          "nome": "Isadora Golfet - Isadora Golfet Clínica de dermatologia -ACAD-AI-019-MAR - G4 360",
+          "nome": "Isadora Golfet - Isadora Golfet Clinica de dermatologia",
           "etapa": "23270032",
           "link": "https://app.hubspot.com/contacts/7186301/deal/58002616129"
         },
         {
-          "nome": "Patrick Dal Ponte - Optidata -ACAD-AI-019-MAR - G4 360",
+          "nome": "Patrick Dal Ponte - Optidata",
           "etapa": "23270032",
           "link": "https://app.hubspot.com/contacts/7186301/deal/57994549558"
         },
         {
-          "nome": "Alex Gonçalves - Club Happy -ACAD-AI-019-MAR - G4 360",
+          "nome": "Alex Goncalves - Club Happy",
           "etapa": "23270032",
           "link": "https://app.hubspot.com/contacts/7186301/deal/58002627178"
         },
         {
-          "nome": "Waldir Ratts - Imóveis de Primeira -ACAD-AI-019-MAR - G4 360",
+          "nome": "Waldir Ratts - Imoveis de Primeira",
           "etapa": "23270032",
           "link": "https://app.hubspot.com/contacts/7186301/deal/57987560449"
         },
         {
-          "nome": "Matheus Welter - Merco service -ACAD-AI-019-MAR - G4 360",
+          "nome": "Matheus Welter - Merco service",
           "etapa": "23270032",
           "link": "https://app.hubspot.com/contacts/7186301/deal/58006260052"
         },
         {
-          "nome": "Rodrigo Oliveira Vitor - Fito Agência -ACAD-AI-019-MAR - G4 360",
+          "nome": "Elivando Castro de Amorim - Jefferson Barreto matos",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58006376490"
+        },
+        {
+          "nome": "Rodrigo Oliveira Vitor - Fito Agencia",
           "etapa": "76082956",
           "link": "https://app.hubspot.com/contacts/7186301/deal/58051013751"
         }
@@ -47,8 +61,8 @@
     {
       "turma": "ACAD-LID-005-MAR",
       "dataEvento": "19/03/2026",
-      "totalAlunos": 57,
-      "totalDeals": 57,
+      "totalAlunos": 60,
+      "totalDeals": 60,
       "alunosSemDeal": [
         {
           "nome": "Marcos Paulo Dias Costa",
@@ -57,7 +71,7 @@
       ],
       "dealsSemAluno": [
         {
-          "nome": "André Candido da Silva - Click Massa -ACAD-LID-005-MAR - G4 360",
+          "nome": "Andre Candido da Silva - Click Massa",
           "etapa": "23270032",
           "link": "https://app.hubspot.com/contacts/7186301/deal/58015745691"
         }
@@ -78,20 +92,30 @@
           "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47561434005"
         },
         {
-          "nome": "César Hiroshi Yoshida",
+          "nome": "Cesar Hiroshi Yoshida",
           "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47561588645"
         },
         {
           "nome": "Filipe Oliveira Leite",
           "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/48966804786"
+        },
+        {
+          "nome": "Maria Carolina Fornasaro",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47837124696"
         }
       ],
-      "dealsSemAluno": []
+      "dealsSemAluno": [
+        {
+          "nome": "Aluno - Consulting - 02 - Tradestar",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58047775566"
+        }
+      ]
     },
     {
       "turma": "IM-TRA-098-MAR",
       "dataEvento": "20/03/2026",
-      "totalAlunos": 153,
+      "totalAlunos": 152,
       "totalDeals": 149,
       "alunosSemDeal": [
         {
@@ -103,7 +127,7 @@
           "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/43615885450"
         },
         {
-          "nome": "AMANDA (nome corrompido — verificar HubSpot ID 44939450700)",
+          "nome": "AMANDA APARECIDA COSTA DE OLIVEIRA",
           "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/44939450700"
         },
         {
@@ -111,7 +135,13 @@
           "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49835126570"
         }
       ],
-      "dealsSemAluno": []
+      "dealsSemAluno": [
+        {
+          "nome": "Michael Schumacher Veiga Silva",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58054628144"
+        }
+      ]
     }
   ]
 }
