@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-18T13:30:00-03:00",
+    "lastUpdated": "2026-03-18T17:00:00-03:00",
     "nextUpdate": "2026-03-18T17:00:00-03:00",
     "mes": "Marco 2026"
   },
@@ -11,19 +11,24 @@
       "totalAlunos": 73,
       "totalDeals": 81,
       "alunosSemDeal": [
-        {"nome": "Larissa Hanke Batista", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/37463552423"},
-        {"nome": "Weuller Azevedo Teste", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/50034215206"}
+        {"nome": "Larissa Hanke Batista", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/37463552423"},
+        {"nome": "Elvio Weimer Opolski", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/48455940107"},
+        {"nome": "Rickelme Ramos Weimer", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/48464356699"},
+        {"nome": "Weuller Azevedo Teste", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/50034215206"}
       ],
       "dealsSemAluno": [
-        {"nome": "Patrick Dal Ponte - Optidata", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57994549558"},
-        {"nome": "Alex Gonçalves - Club Happy", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58002627178"},
-        {"nome": "Waldir Ratts - Imóveis de Primeira", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57987560449"},
-        {"nome": "Matheus Welter - Merco service", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58006260052"},
-        {"nome": "Gilberto Júnior - Asap Contabilidade", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58006379388"},
-        {"nome": "Elivando Castro de Amorim - Jefferson Barreto matos", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/58006376490"},
-        {"nome": "Guilherme Mendes Barros - --", "etapa": "23270032", "link": "https://app.hubspot.com/contacts/7186301/deal/57990250016"},
-        {"nome": "Paulo Renato de Araújo e Silva - Asap", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58002661440"},
-        {"nome": "Rodrigo Oliveira Vitor - Fito Agência", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58051013751"}
+        {"nome": "Isadora Golfet", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58002616129"},
+        {"nome": "Patrick Dal Ponte", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57994549558"},
+        {"nome": "Elias Opolski", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57986943340"},
+        {"nome": "Alex Goncalves", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58002627178"},
+        {"nome": "Waldir Ratts", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57987560449"},
+        {"nome": "Matheus Welter", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58006260052"},
+        {"nome": "Gilberto Junior", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58006379388"},
+        {"nome": "Elvio Weimer", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57982329105"},
+        {"nome": "Elivando Castro de Amorim", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58006376490"},
+        {"nome": "Guilherme Mendes Barros", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57990250016"},
+        {"nome": "Paulo Renato de Araujo e Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58002661440"},
+        {"nome": "Rodrigo Oliveira Vitor", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58051013751"}
       ]
     },
     {
@@ -32,42 +37,42 @@
       "totalAlunos": 59,
       "totalDeals": 60,
       "alunosSemDeal": [
-        {"nome": "Marcos Paulo Dias Costa", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/46771513903"}
+        {"nome": "Marcos Paulo Dias Costa", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/46771513903"},
+        {"nome": "Antonio Menezes", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/48987151173"}
       ],
       "dealsSemAluno": [
-        {"nome": "André Cândido da Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58015745691"},
-        {"nome": "Bruno de Sousa Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58011731053"}
+        {"nome": "Andre Candido da Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58015745691"},
+        {"nome": "Bruno de Sousa Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58011731053"},
+        {"nome": "Gustavo de Andrade Parazzi", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58015758929"}
       ]
     },
     {
       "turma": "SPR-PE-017-MAR",
       "dataEvento": "20/03/2026",
       "totalAlunos": 41,
-      "totalDeals": 37,
+      "totalDeals": 41,
       "alunosSemDeal": [
-        {"nome": "Elias Gomes de Almeida", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/36162463522"},
-        {"nome": "Deborah Ribeiro", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47561434005"},
-        {"nome": "César Hiroshi Yoshida", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47561588645"},
-        {"nome": "Maria Carolina Fornasaro", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47837124696"},
-        {"nome": "Filipe Oliveira Leite", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/48966804786"}
+        {"nome": "Maria Carolina Fornasaro", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/47837124696"}
       ],
       "dealsSemAluno": [
-        {"nome": "Aluno - Consulting - 02 - Tradestar", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58047775566"}
+        {"nome": "Aluno - Consulting - 02", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58047775566"}
       ]
     },
     {
       "turma": "IM-TRA-098-MAR",
       "dataEvento": "20/03/2026",
-      "totalAlunos": 152,
+      "totalAlunos": 146,
       "totalDeals": 149,
       "alunosSemDeal": [
-        {"nome": "CLARISSA CIMORELLI LIMA", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/43572380316"},
-        {"nome": "Rafaella Benevides", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/43615885450"},
-        {"nome": "AMANDA APARECIDA COSTA DE OLIVEIRA", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/44939450700"},
-        {"nome": "Alessandro Candido", "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49835126570"}
+        {"nome": "Rafaella Benevides", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/43615885450"},
+        {"nome": "Alessandro Candido", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/49835126570"}
       ],
       "dealsSemAluno": [
-        {"nome": "Michael Schumacher Veiga Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/7186301/deal/58054628144"}
+        {"nome": "Tiago Leite", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58052608368"},
+        {"nome": "Jorge Henrique Lopez Conrado", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58052456350"},
+        {"nome": "Michael Schumacher Veiga Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58054628144"},
+        {"nome": "Everton Nespolo", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58076156455"},
+        {"nome": "Tiago Leite V2", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58065855375"}
       ]
     }
   ]
