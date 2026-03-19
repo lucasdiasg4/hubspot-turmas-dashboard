@@ -1,49 +1,55 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-18T17:00:00-03:00",
-    "nextUpdate": "2026-03-18T17:00:00-03:00",
+    "lastUpdated": "2026-03-19T09:59:00-03:00",
+    "nextUpdate": "2026-03-19T10:00:00-03:00",
     "mes": "Marco 2026"
   },
   "turmas": [
     {
-      "turma": "ACAD-AI-019-MAR",
-      "dataEvento": "18/03/2026",
-      "totalAlunos": 73,
-      "totalDeals": 81,
-      "alunosSemDeal": [
-        {"nome": "Larissa Hanke Batista", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/37463552423"},
-        {"nome": "Elvio Weimer Opolski", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/48455940107"},
-        {"nome": "Rickelme Ramos Weimer", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/48464356699"},
-        {"nome": "Weuller Azevedo Teste", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/50034215206"}
-      ],
-      "dealsSemAluno": [
-        {"nome": "Isadora Golfet", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58002616129"},
-        {"nome": "Patrick Dal Ponte", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57994549558"},
-        {"nome": "Elias Opolski", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57986943340"},
-        {"nome": "Alex Goncalves", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58002627178"},
-        {"nome": "Waldir Ratts", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57987560449"},
-        {"nome": "Matheus Welter", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58006260052"},
-        {"nome": "Gilberto Junior", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58006379388"},
-        {"nome": "Elvio Weimer", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57982329105"},
-        {"nome": "Elivando Castro de Amorim", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58006376490"},
-        {"nome": "Guilherme Mendes Barros", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/57990250016"},
-        {"nome": "Paulo Renato de Araujo e Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58002661440"},
-        {"nome": "Rodrigo Oliveira Vitor", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58051013751"}
-      ]
-    },
-    {
       "turma": "ACAD-LID-005-MAR",
       "dataEvento": "19/03/2026",
-      "totalAlunos": 59,
+      "totalAlunos": 58,
       "totalDeals": 60,
       "alunosSemDeal": [
-        {"nome": "Marcos Paulo Dias Costa", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/46771513903"},
-        {"nome": "Antonio Menezes", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/48987151173"}
+        {
+          "nome": "Marcos Paulo Dias Costa",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/46771513903"
+        },
+        {
+          "nome": "Caroline Estefani Movio",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47961927976"
+        },
+        {
+          "nome": "Antonio Menezes",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/48987151173"
+        }
       ],
       "dealsSemAluno": [
-        {"nome": "Andre Candido da Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58015745691"},
-        {"nome": "Bruno de Sousa Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58011731053"},
-        {"nome": "Gustavo de Andrade Parazzi", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58015758929"}
+        {
+          "nome": "André Cândido da Silva - Click Massa -ACAD-LID-005-MAR - G4 360",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58015745691"
+        },
+        {
+          "nome": "Vitoria Chinelatto Vieira - Carraro Seguros -ACAD-LID-005-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58015338793"
+        },
+        {
+          "nome": "Bruno de Sousa Silva - Nippontec Internet -ACAD-LID-005-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58011731053"
+        },
+        {
+          "nome": "Caroline Movio - ELLO CENOGRAFIA -ACAD-LID-005-MAR - G4 360",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58011705273"
+        },
+        {
+          "nome": "Gustavo de Andrade Parazzi - GCB -ACAD-LID-005-MAR - G4 360",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58015758929"
+        }
       ]
     },
     {
@@ -52,27 +58,70 @@
       "totalAlunos": 41,
       "totalDeals": 41,
       "alunosSemDeal": [
-        {"nome": "Maria Carolina Fornasaro", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/47837124696"}
+        {
+          "nome": "Maria Carolina Fornasaro",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/47837124696"
+        }
       ],
       "dealsSemAluno": [
-        {"nome": "Aluno - Consulting - 02", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58047775566"}
+        {
+          "nome": "Aluno - Consulting - 02 - Tradestar -SPR-PE-017-MAR - G4 360",
+          "etapa": "76082956",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58047775566"
+        }
       ]
     },
     {
       "turma": "IM-TRA-098-MAR",
       "dataEvento": "20/03/2026",
-      "totalAlunos": 146,
+      "totalAlunos": 144,
       "totalDeals": 149,
       "alunosSemDeal": [
-        {"nome": "Rafaella Benevides", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/43615885450"},
-        {"nome": "Alessandro Candido", "link": "https://app.hubspot.com/contacts/21751024/objects/2-5260914/49835126570"}
+        {
+          "nome": "Rafaella Benevides",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/43615885450"
+        },
+        {
+          "nome": "Alessandro Candido",
+          "link": "https://app.hubspot.com/contacts/7186301/record/2-5260914/49835126570"
+        }
       ],
       "dealsSemAluno": [
-        {"nome": "Tiago Leite", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58052608368"},
-        {"nome": "Jorge Henrique Lopez Conrado", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58052456350"},
-        {"nome": "Michael Schumacher Veiga Silva", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58054628144"},
-        {"nome": "Everton Nespolo", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58076156455"},
-        {"nome": "Tiago Leite V2", "etapa": "", "link": "https://app.hubspot.com/contacts/21751024/deal/58065855375"}
+        {
+          "nome": "Tiago Leite - Tsmedcar comércio de veículos Ltda -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58052608368"
+        },
+        {
+          "nome": "Jorge Henrique Lopez Conrado - JBS -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58052456350"
+        },
+        {
+          "nome": "Meyre Andrade - Autoescola Dinâmica -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58068642684"
+        },
+        {
+          "nome": "Michael Schumacher Veiga Silva - Projeto 407 -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58054628144"
+        },
+        {
+          "nome": "Eduardo Zottis Demarco - WORK Uniformes -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58068022400"
+        },
+        {
+          "nome": "Everton Nespolo - Bfx -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58076156455"
+        },
+        {
+          "nome": "Tiago Leite V2 -  -IM-TRA-098-MAR - G4 360",
+          "etapa": "23270032",
+          "link": "https://app.hubspot.com/contacts/7186301/deal/58065855375"
+        }
       ]
     }
   ]
